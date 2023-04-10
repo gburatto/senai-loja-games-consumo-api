@@ -1,0 +1,30 @@
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 900px;
+}
+
+#section-login{
+  height: 100%;
+  width: 400px;
+  border-radius: 10px;
+  border: 2px solid black;
+  padding: 10px 20px;
+}
+
+#section-login h2{
+  text-align: center;
+}
+
+#section-login input{
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+#section-login button{
+  width: 100%;
+  padding: 10px;
+}
